@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shieldova.vercel.app
+
+# Sitemaps
+Sitemap: https://shieldova.vercel.app/sitemap.xml
